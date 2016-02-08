@@ -1,5 +1,4 @@
-# Pitch
-<h1>In Transit</h1>
+# In Transit
 
 <strong>What’s it about?</strong>
 
