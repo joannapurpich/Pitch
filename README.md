@@ -16,6 +16,6 @@ Ephemeral New York and Jeremiah Vanishes both cover changes in NYC, but they foc
 -	How neighborhoods are affected by transit shutdown – property value graphic 
 -	Segregation in NYC – animated map showing demographic shifts over 100 years 
 -	Feature on longstanding business closing – video 
--	Explainer on community gardens (how city redevlops empty lots) - search for gardens near you
+-	Explainer on community gardens (how city redevelops empty lots) - search for gardens near you
 -	Crime rate trends by neighborhood - graphic 
 
